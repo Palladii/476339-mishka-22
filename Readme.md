@@ -1,7 +1,7 @@
 # Личный проект «Мишка» 
 
 * Студент: [Oksana Palladii](https://up.htmlacademy.ru/adaptive/22/user/476339).
-* Наставник: `Неизвестно`.
+* Наставник: [Анастасия Полозова] (https://htmlacademy.ru/profile/id258631).
 
 ---
 
